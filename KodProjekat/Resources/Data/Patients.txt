@@ -1,0 +1,20 @@
+[
+  {
+    "Username": "Marko",
+    "Password": "111111111111",
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Name": "Milos",
+    "Surname": "Markovic",
+    "PhoneNumber": "076667828",
+    "Email": "marko@hotmail.rs",
+    "Jmbg": "111111111111",
+    "City": {
+      "NameOfCity": "Novi Sad",
+      "PostCode": "21000",
+      "Adress": "Partizanska 2",
+      "State": {
+        "Name": "Srbija"
+      }
+    }
+  }
+]

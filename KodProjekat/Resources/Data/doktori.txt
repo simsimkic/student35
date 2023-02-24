@@ -1,0 +1,77 @@
+[
+  {
+    "RadnoVremePrikaz": [],
+    "Username": "Marko",
+    "Password": "111111111111",
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Name": "Marko",
+    "Surname": "Jovanovic",
+    "PhoneNumber": "076667828",
+    "Email": "marko@hotmail.rs",
+    "Jmbg": "111111111111",
+    "City": {
+      "NameOfCity": "Novi Sad",
+      "PostCode": "21000",
+      "Adress": "Partizanska 2",
+      "State": {
+        "Name": "Srbija"
+      }
+    }
+  },
+  {
+    "RadnoVremePrikaz": [
+      {
+        "DanRada": "2020-06-29T00:00:00",
+        "RadnoVreme": "14:00-22:00"
+      },
+      {
+        "DanRada": "2020-06-06T00:00:00",
+        "RadnoVreme": "10:00-16:00"
+      }
+    ],
+    "Username": "Jovan",
+    "Password": "555555555555",
+    "DateOfBirth": "2020-06-20T00:00:00",
+    "Name": "Jovan",
+    "Surname": "Markovic",
+    "PhoneNumber": "06577788890",
+    "Email": "Jovan@hotmail.com",
+    "Jmbg": "555555555555",
+    "City": {
+      "NameOfCity": "Beograd",
+      "PostCode": "21000",
+      "Adress": "novosadska",
+      "State": {
+        "Name": "Srbija"
+      }
+    }
+  },
+ {
+    "RadnoVremePrikaz": [
+      {
+        "DanRada": "2020-06-22T00:00:00",
+        "RadnoVreme": "14:00-22:00"
+      },
+      {
+        "DanRada": "2020-06-29T00:00:00",
+        "RadnoVreme": "10:00-16:00"
+      }
+    ],
+    "Username": "Jovan",
+    "Password": "555555555555",
+    "DateOfBirth": "2020-06-20T00:00:00",
+    "Name": "Milorad",
+    "Surname": "Mirkovic",
+    "PhoneNumber": "06577788890",
+    "Email": "Jovan@hotmail.com",
+    "Jmbg": "3333333333333",
+    "City": {
+      "NameOfCity": "Beograd",
+      "PostCode": "21000",
+      "Adress": "novosadska",
+      "State": {
+        "Name": "Srbija"
+      }
+    }
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "Username": "Stefan Zec",
+    "Password": "1103998800010",
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Name": "Stefan",
+    "Surname": "Zec",
+    "PhoneNumber": "0653863668",
+    "Email": "stefanzec@hotmail.rs",
+    "Jmbg": "1103998800010",
+    "City": {
+      "NameOfCity": "Novi Sad",
+      "PostCode": "51000",
+      "Adress": "Partizanska 2",
+      "State": {
+        "Name": "Srbija"
+      }
+    }
+  }
+]

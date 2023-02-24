@@ -1,0 +1,13 @@
+[
+  {
+    "ListEquipmentsInRoom": [],
+    "StartRenovation": "2020-06-19T00:00:00",
+    "EndRenovation": "2020-06-24T00:00:00",
+    "NameOfRoom": "124",
+    "TypeOfRoom": "Soba za ležanje",
+    "IsFree": false,
+    "RenovationPeriod": "6/19/2020-6/24/2020",
+    "Split": "NE",
+    "Merge": "DA"
+  }
+]

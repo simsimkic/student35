@@ -1,0 +1,16 @@
+[
+  {
+    "Ime": "Paracetamol",
+    "Sifra": "112ff",
+    "Kolicina": "200",
+    "Proizvodjac": "Hemofarm",
+    "Sastojci": "opijum,skrobova kiselina..."
+  },
+  {
+    "Ime": "Brufen",
+    "Sifra": "111aa",
+    "Kolicina": "200",
+    "Proizvodjac": "Hemofarm",
+    "Sastojci": "E212,opijum,..."
+  }
+]

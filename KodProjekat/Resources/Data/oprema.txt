@@ -1,0 +1,18 @@
+[
+  {
+    "sifre": [
+      "22222",
+      "77777",
+      "44444"
+    ],
+    "TipOpreme": "stolice",
+    "Kolicina": 3
+  },
+  {
+    "sifre": [
+      "12333"
+    ],
+    "TipOpreme": "krevet",
+    "Kolicina": 1
+  }
+]

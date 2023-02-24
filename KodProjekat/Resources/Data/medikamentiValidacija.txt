@@ -1,0 +1,9 @@
+[
+  {
+    "Ime": "Kodaron",
+    "Sifra": "12345",
+    "Kolicina": "100",
+    "Proizvodjac": "Hemofarm",
+    "Sastojci": "salicilati,He,..."
+  }
+]

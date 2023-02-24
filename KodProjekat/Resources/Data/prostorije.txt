@@ -1,0 +1,54 @@
+[
+  {
+    "ListEquipmentsInRoom": [
+      {
+        "sifre": [
+          "11111"
+        ],
+        "TipOpreme": "krevet",
+        "Kolicina": 1
+      },
+      {
+        "sifre": [
+          "88888"
+        ],
+        "TipOpreme": "stolice",
+        "Kolicina": 1
+      }
+    ],
+    "StartRenovation": "0001-01-01T00:00:00",
+    "EndRenovation": "0001-01-01T00:00:00",
+    "NameOfRoom": "12",
+    "TypeOfRoom": "Operaciona sala",
+    "IsFree": true,
+    "RenovationPeriod": null,
+    "Split": null,
+    "Merge": null
+  },
+  {
+    "ListEquipmentsInRoom": [
+      {
+        "sifre": [
+          "99999"
+        ],
+        "TipOpreme": "krevet",
+        "Kolicina": 1
+      },
+      {
+        "sifre": [
+          "33333"
+        ],
+        "TipOpreme": "stolice",
+        "Kolicina": 1
+      }
+    ],
+    "StartRenovation": "2020-06-19T00:00:00",
+    "EndRenovation": "2020-06-24T00:00:00",
+    "NameOfRoom": "124",
+    "TypeOfRoom": "Soba za ležanje",
+    "IsFree": false,
+    "RenovationPeriod": "6/19/2020-6/24/2020",
+    "Split": "NE",
+    "Merge": "DA"
+  }
+]

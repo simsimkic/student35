@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Marko",
+    "Surname": "Markovic",
+    "PhoneNumber": null,
+    "Jmbg": "123456"
+  },
+  {
+    "Name": "1111111111111",
+    "Surname": "111111111111111111",
+    "PhoneNumber": null,
+    "Jmbg": "123456"
+  }
+]
